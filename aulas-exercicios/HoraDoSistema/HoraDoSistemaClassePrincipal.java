@@ -18,7 +18,7 @@ public class HoraDoSistemaClassePrincipal {
 		//desafio IdiomaSistema Seu sistema está em 
 		//desafio ResolucaoTela Sua tela tem resolução
 		//fiz os deafios em classes diferentes
-		
+		//testar o git
 
 	}
 
