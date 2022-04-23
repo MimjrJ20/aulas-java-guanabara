@@ -1,6 +1,6 @@
 
 //AULA JAVA #04
-package HoraDoSistema;
+package horadosistema;
 
 import java.util.Date;
 

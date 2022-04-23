@@ -1,6 +1,6 @@
 
 //AULA JAVA #04
-package ResolucaoTela;
+package resolucaotela;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;

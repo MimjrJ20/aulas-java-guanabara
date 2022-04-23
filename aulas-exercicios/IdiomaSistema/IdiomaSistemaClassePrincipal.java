@@ -1,6 +1,6 @@
 
 //AULA JAVA #04
-package IdiomaSistema;
+package idiomasistema;
 
 import java.util.Locale;
 
